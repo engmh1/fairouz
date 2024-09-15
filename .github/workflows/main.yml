@@ -1,6 +1,6 @@
             - name: Codacy Analysis CLI
   # You may pin to the exact commit or the version.
-  # uses: codacy/codacy-analysis-cli-action@33d455949345bddfdb845fba76b57b70cc83754b
+  # uses: codacy/codacy-analysis-cli-action@b80ff62f6be44aa99d4dfcacd9c7dc33
   uses: codacy/codacy-analysis-cli-action@v4.4.0
   with:
     # Run with verbose output
